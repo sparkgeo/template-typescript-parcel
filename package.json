@@ -9,7 +9,7 @@
     "build": "parcel build src/index.html",
     "test": "jest"
   },
-  "author": "Brian Bancroft <hello@brianbancroft.ca>",
+  "author": "Sparkgeo <hi@sparkgeo.com>",
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^26.0.20",
